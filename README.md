@@ -82,11 +82,14 @@ After training:
 - Real transformed data vs GAN-generated samples
 - Strong visual similarity
 - Major distribution modes captured
+![Histogram Comparison](images/histogram.png)
+
 
 ### 2️⃣ KDE-Based PDF Estimation
 - Smooth continuous PDF curve
 - Accurate approximation of empirical distribution
 - No prior analytical form required
+![KDE Curve](images/kde_curve.png)
 
 ---
 
